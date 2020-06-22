@@ -1,0 +1,11 @@
+"V1","V2","V3","V4","V5","Sixth Sense","Gladiator","LOTR1","Harry Potter1","Patriot","LOTR2","Harry Potter2","LOTR","Braveheart","Green Mile"
+"Sixth Sense","LOTR1","Harry Potter1","Green Mile","LOTR2",1,0,1,1,0,1,0,0,0,1
+"Gladiator","Patriot","Braveheart","","",0,1,0,0,1,0,0,0,1,0
+"LOTR1","LOTR2","","","",0,0,1,0,0,1,0,0,0,0
+"Gladiator","Patriot","Sixth Sense","","",1,1,0,0,1,0,0,0,0,0
+"Gladiator","Patriot","Sixth Sense","","",1,1,0,0,1,0,0,0,0,0
+"Gladiator","Patriot","Sixth Sense","","",1,1,0,0,1,0,0,0,0,0
+"Harry Potter1","Harry Potter2","","","",0,0,0,1,0,0,1,0,0,0
+"Gladiator","Patriot","","","",0,1,0,0,1,0,0,0,0,0
+"Gladiator","Patriot","Sixth Sense","","",1,1,0,0,1,0,0,0,0,0
+"Sixth Sense","LOTR","Gladiator","Green Mile","",1,1,0,0,0,0,0,1,0,1

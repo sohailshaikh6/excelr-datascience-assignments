@@ -1,0 +1,3 @@
+Perform Basic Visualizations for all the columns(numerical data only) on any 
+data set from data set folder make sure it has more data. So we can make better inferences for the visualizations(boxplot,histogram)
+
